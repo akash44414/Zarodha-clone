@@ -1,0 +1,22 @@
+@media (max-width: 886px) {
+    .nav-link {
+        display: none;
+    }
+    .nav-link {
+        display: block;
+    }
+}
+
+#container{
+    background-color: white;
+    height: 100%;
+    
+}
+#bigContainer
+{
+    background-color: white;
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom:1px solid rgb(239, 235, 235);
+}

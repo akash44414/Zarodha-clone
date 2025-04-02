@@ -1,0 +1,28 @@
+.inputs fieldset:focus {
+    outline: none;
+    border: 0.7px solid rgb(49, 49, 49);
+    border-radius: 2px;
+  }
+  
+  .inputs fieldset input:focus {
+    outline: none;
+  }
+  
+  .inputs fieldset input:focus {
+    outline: none;
+  }
+  
+  .inputs fieldset input:disabled {
+    cursor: not-allowed;
+    background-color: transparent;
+  }
+  
+  .btn-blue:hover {
+    background: #74a7fa;
+  }
+  
+  .btn-grey:hover {
+    background: #9b9b9b;
+    color: #fff;
+  }
+  
